@@ -1,0 +1,6 @@
+{
+  "name": "Personal Daily Guide",
+  "description": "مرشد يومي شخصي ذكي لفهم وإدارة اليوم بفلسفة Plan → Live → Record → Understand → Adapt",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
